@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.913,\\Mac\Home\Downloads\ДЗ1_ООП\ДЗ1_Набережная_ИУ6-24Б\UI.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\UI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,\\Mac\Home\Documents\Embarcadero\Studio\Projects\DrawLine.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Line.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Line.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,\\Mac\Home\Documents\Embarcadero\Studio\Projects\UI.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,\\Mac\Home\Downloads\ДЗ1_ООП\ДЗ1_Набережная_ИУ6-24Б\HW1_Nab.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,\\Mac\Home\Documents\Embarcadero\Studio\Projects\UI.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,\\Mac\Home\Downloads\ДЗ1_ООП\ДЗ1_Набережная_ИУ6-24Б\UI.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\UI.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.734,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,\\Mac\Home\Downloads\ДЗ1_ООП\ДЗ1_Набережная_ИУ6-24Б\DrawLine.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\DrawLine.pas</Transaction>
+  </Transactions>
+</BorlandProject>
